@@ -636,7 +636,8 @@ h6 {
 }
 
 #about .about-container .icon-box:hover .icon #customIconGlass {
-  content: url('/lib/font-awesome/glasses-solid-white.svg');
+  /*content: url('/lib/font-awesome/glasses-solid-white.svg');*/
+  content: url('./../glasses-solid-white.svg');
 }
 
 #about .about-container .icon-box:hover .icon #customIconHappy {
